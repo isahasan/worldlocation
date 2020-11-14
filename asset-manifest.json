@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/worldlocation/static/css/main.0ec4e269.chunk.css",
+    "main.js": "/worldlocation/static/js/main.d618fc5c.chunk.js",
+    "main.js.map": "/worldlocation/static/js/main.d618fc5c.chunk.js.map",
+    "runtime-main.js": "/worldlocation/static/js/runtime-main.786188da.js",
+    "runtime-main.js.map": "/worldlocation/static/js/runtime-main.786188da.js.map",
+    "static/js/2.7a546a32.chunk.js": "/worldlocation/static/js/2.7a546a32.chunk.js",
+    "static/js/2.7a546a32.chunk.js.map": "/worldlocation/static/js/2.7a546a32.chunk.js.map",
+    "index.html": "/worldlocation/index.html",
+    "precache-manifest.5cf7edff4b5492934f4048cd8bbcd250.js": "/worldlocation/precache-manifest.5cf7edff4b5492934f4048cd8bbcd250.js",
+    "service-worker.js": "/worldlocation/service-worker.js",
+    "static/css/main.0ec4e269.chunk.css.map": "/worldlocation/static/css/main.0ec4e269.chunk.css.map",
+    "static/js/2.7a546a32.chunk.js.LICENSE.txt": "/worldlocation/static/js/2.7a546a32.chunk.js.LICENSE.txt",
+    "static/media/northern.gif": "/worldlocation/static/media/northern.c6e74129.gif",
+    "static/media/southern.jpg": "/worldlocation/static/media/southern.3b4e5830.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.786188da.js",
+    "static/js/2.7a546a32.chunk.js",
+    "static/css/main.0ec4e269.chunk.css",
+    "static/js/main.d618fc5c.chunk.js"
+  ]
+}
